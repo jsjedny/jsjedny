@@ -2,7 +2,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jsjedny" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7E3ACE&lines=Hi+There!+👋;+I'm+Golam+Shakib!;+Flutter+Developer" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7E3ACE&lines=Hi+There!+👋;+I'm+JS+Jedny!;+Flutter+Developer" />
 </h1>
 
 <h3 align="center" style="color: purple;">A passionate Mobile App developer from Bangladesh</h3>
@@ -13,13 +13,8 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 <br/>
 
-<div align="center"> 
-  <a href="https://linkedin.com/in/golamshakib" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-   <a href="https://golamshakib.wixsite.com/golamshakib" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+<div align="center">  
+   
   <a href="mailto:golamshakib.h@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -43,7 +38,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
     <a href="https://github.com/jsjedny">
       <img 
         src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jsjedny&theme=radical" 
-        alt="Shakib's GitHub Contribution" 
+        alt="jedny's GitHub Contribution" 
         width="75%" 
       />
     </a>
