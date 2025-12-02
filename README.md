@@ -82,21 +82,11 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
   <!-- 🔥 GitHub Streak -->
   <img 
     src="https://streak-stats.demolab.com?user=jsjedny&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
-    alt="Shakib's GitHub Streak" 
+    alt="Jedny's GitHub Streak" 
     width="70%" 
     style="margin-bottom: 10px;"
   /> 
 
- <!-- 💻 GitHub Stats & 🧠 Top Languages (Same Row) -->
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=jsjedny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&icon_color=FF3068" 
-    alt="Shakib's GitHub Stats" 
-    width="48%" 
-    style="margin-right: 1%;"
-  />
-
-<!--
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsjedny&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF3068&text_color=67E8F9&layout=compact&langs_count=8" 
     alt="Shakib's Top Languages" 
