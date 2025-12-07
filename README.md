@@ -15,15 +15,12 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 <div align="center">  
    
-  <a href="mdjedny648@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-    <a href="https://www.facebook.com/jsjedny" target="_blank">
+
+
+    <a href="https://https://www.facebook.com/js.jedny.9" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/jsjedny" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+
 
 </div>
 
