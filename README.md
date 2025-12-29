@@ -70,7 +70,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 
 <div align="center">
-  <h3>🔥 My Stats</h3>
+  <h3>🔥 GitHub Stats</h3>
   <hr/>
     
 <div align="center">
