@@ -76,7 +76,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 <div align="center">
   <!-- 🔥 GitHub Streak -->
   <img 
-    src="https://streak-stats.demolab.com?user=jsjedny&theme=tokyonight&hide_border=true&background=0D1117&stroke=2D3742&ring=FF3068&fire=FF3068&currStreakLabel=FF3068&sideNums=67E8F9&currStreakNum=67E8F9&sideLabels=67E8F9&dates=959DB2" 
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=jsjedny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=bf91f3&icon_color=70a5fd"
     alt="Jedny's GitHub Streak" 
     width="70%" 
     style="margin-bottom: 10px;"
