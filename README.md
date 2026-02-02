@@ -13,14 +13,27 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 <br/>
 
-<div align="center">  
-   
-</a>
-    <a href="https://www.facebook.com/js.jedny.9" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<div align="center" >  
 
+  <a href="https://www.facebook.com/js.jedny.9" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
 
 </div>
+ <hr/>
+ <div align="center" >  
+
+  <h5> ⌚ Waka time details</h5>
+
+</div>
+<div align="center" >  
+
+  <a href="https://wakatime.com/@c593716f-631b-4fe5-ba4e-dcd3b07052d4" target="_blank">
+    <img src="https://wakatime.com/badge/user/c593716f-631b-4fe5-ba4e-dcd3b07052d4.svg" alt="Total time coded since Oct 15 2025" />
+  </a>
+
+</div>
+
 
 
  <hr/>
