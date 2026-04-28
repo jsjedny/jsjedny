@@ -109,11 +109,11 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 </div>
 
  
- <!--
+
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,androidstudio,vscode,github,figma,git,ae,apple,au,kotlin,cpp,cmake,stackoverflow,py,python,firebase,c,java,mysql,discord,gmail,gradle,idea,ai,instagram,linkedin,linux,opencv,ps,postman,pr,sqlite,windows,ubuntu" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,androidstudio,vscode,github,figma,git,apple,kotlin,stackoverflow,python,firebase,c,java,mysql,discord,gmail,gradle,ai,instagram,linkedin,linux,ps,postman,sqlite,windows" />
     <br>
 </div> 
 
