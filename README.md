@@ -119,7 +119,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 |-----|----------|----------|
 | **Conscience** | Android | <a href="https://play.google.com/store/apps/details?id=com.conscience.guillaume.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
 | **Vet Check** | Android | <a href="https://play.google.com/store/apps/details?id=com.vet.check.track"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
-| **Vet Check** | Android | <a href="https://play.google.com/store/apps/details?id=com.jedny.bmicalculator"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
+| **Js bmi calculator** | Android | <a href="https://play.google.com/store/apps/details?id=com.jedny.bmicalculator"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
 ||
 | **Vet Check** | iOS | <a href="https://apps.apple.com/us/app/vet-check/id6759480170"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" /></a> |
 
