@@ -110,9 +110,22 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=jsjedny&theme=tokyonight" alt="GitHub Streak" width="70%" /> </div>
 
- 
 <hr>
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<h3 align="center">📲 Published Apps</h3>
+<br>
+
+| App | Platform | Download |
+|-----|----------|----------|
+| **Conscience** | Android | <a href="https://play.google.com/store/apps/details?id=com.conscience.guillaume.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
+| **Vet Check** | Android | <a href="https://play.google.com/store/apps/details?id=com.vet.check.track"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
+| **Vet Check** | Android | <a href="https://play.google.com/store/apps/details?id=com.jedny.bmicalculator"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
+||
+| **Vet Check** | iOS | <a href="https://apps.apple.com/us/app/vet-check/id6759480170"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" /></a> |
+
+
+<hr>
+<h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br>
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,androidstudio,vscode,github,figma,git,apple,kotlin,stackoverflow,python,firebase,c,java,mysql,discord,gmail,gradle,ai,instagram,linkedin,linux,ps,postman,sqlite,windows" />
