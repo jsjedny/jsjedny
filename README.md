@@ -111,9 +111,9 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=jsjedny&theme=tokyonight" alt="GitHub Streak" width="70%" /> </div>
 
  
-<hr/>
+<hr>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-
+<br>
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,androidstudio,vscode,github,figma,git,apple,kotlin,stackoverflow,python,firebase,c,java,mysql,discord,gmail,gradle,ai,instagram,linkedin,linux,ps,postman,sqlite,windows" />
     
@@ -122,4 +122,4 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 </div>
 
-<br/>
+
