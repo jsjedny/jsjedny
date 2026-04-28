@@ -49,7 +49,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 <!-- GitHub Contribution Details -->
 <div align="center">
   <h3>⚡ GitHub Contribution Details</h3>
-<hr/>
+<br/>
   <p align="center">
     <a href="https://github.com/jsjedny">
       <img 
@@ -92,7 +92,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 <div align="center">
   <h3>🔥 GitHub Stats</h3>
-  <hr/>
+  
     
 <div align="center">
   <!-- 🔥 GitHub Streak -->
@@ -108,13 +108,15 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 </div>
 
- 
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=jsjedny&theme=tokyonight" alt="GitHub Streak" width="70%" /> </div>
 
+ 
+<hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
 <div align="center"> 
     <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,androidstudio,vscode,github,figma,git,apple,kotlin,stackoverflow,python,firebase,c,java,mysql,discord,gmail,gradle,ai,instagram,linkedin,linux,ps,postman,sqlite,windows" />
-    <br>
+    
 </div> 
 
 
