@@ -13,13 +13,21 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 <br/>
 
-<div align="center" >  
+<h3 align="center">🤝 Connect With Me</h3>
 
-  <a href="https://www.facebook.com/js.jedny.9" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/jedny-dev-a72a213bb" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-</div>
+  <a href="https://www.facebook.com/js.jedny.9" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+
+  <a href="https://wa.me/8801924156973" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  </a>
+</p>
  <hr/>
  <div align="center" >  
 
