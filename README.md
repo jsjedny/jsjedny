@@ -59,7 +59,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
       />
     </a>
   </p>
- 
+ <!--
   <p align="center"  >
     <img 
       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jsjedny&theme=radical" 
@@ -72,8 +72,9 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
       width="40%" 
     />
   </p>
+  -->
 
-<hr/>
+<hr>
 
 <!-- Snake Contributions-->
 
@@ -91,11 +92,12 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 
 
 <div align="center">
-  <h3>🔥 GitHub Stats</h3>
+  <h3>🔥 GitHub Streak</h3>
   
-    
+<!--
 <div align="center">
   <!-- 🔥 GitHub Streak -->
+  <!--
   <img 
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=jsjedny&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=70a5fd&text_color=bf91f3&icon_color=70a5fd"
     alt="Jedny's GitHub Streak" 
@@ -103,10 +105,13 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
     style="margin-bottom: 10px;"
   /> 
 
-  
-</div>
+
+
+    </div>
+-->
 
 </div>
+<br>
 
 <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=jsjedny&theme=tokyonight" alt="GitHub Streak" width="70%" /> </div>
 
