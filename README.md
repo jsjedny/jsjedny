@@ -29,6 +29,17 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
   </a>
 </p>
  <hr/>
+<h3 align="center">Jedny's Portfolio</h3>
+<p align="center">
+  <a href="https://jedny-portfolio.vercel.app/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/✨%20Explore%20My%20Portfolio-7E3ACE?style=for-the-badge&logo=vercel&logoColor=white"
+      alt="Explore My Portfolio"
+    />
+  </a>
+</p>
+ 
+ <hr/>
  <div align="center" >  
 
   <h5> ⌚ Waka time details</h5>
