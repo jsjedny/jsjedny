@@ -135,11 +135,12 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 |-----|----------|----------|
 | **UnSpoken** | Android | <a href="https://play.google.com/store/apps/details?id=com.unspoken.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
 | **HabitCut** | Android | <a href="https://play.google.com/store/apps/details?id=com.habit.cut.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
+| **ChatXChange** | Android | <a href="https://play.google.com/store/apps/details?id=com.chatxchange.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
 | **Conscience** | Android | <a href="https://play.google.com/store/apps/details?id=com.conscience.guillaume.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
 | **Vet Check** | Android | <a href="https://play.google.com/store/apps/details?id=com.vet.check.track"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
 | **Js bmi calculator** | Android | <a href="https://play.google.com/store/apps/details?id=com.jedny.bmicalculator"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
 | **Point Nemo** | Android | <a href="https://play.google.com/store/apps/details?id=com.point.nemo.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
-| **ChatXChange** | Android | <a href="https://play.google.com/store/apps/details?id=com.chatxchange.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
+| **Lovely Hearts Socials** | Android | <a href="https://play.google.com/store/apps/details?id=com.lovely.hearts.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
 ||
 | **Conscience** | iOS | <a href="https://apps.apple.com/us/app/conscience-habit-tracker/id6766221828"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" /></a> |
 | **Vet Check** | iOS | <a href="https://apps.apple.com/us/app/vet-check/id6759480170"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" /></a> |
