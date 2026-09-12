@@ -143,6 +143,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 | **Point Nemo** | Android | <a href="https://play.google.com/store/apps/details?id=com.point.nemo.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
 | **Lovely Hearts Socials** | Android | <a href="https://play.google.com/store/apps/details?id=com.lovely.hearts.app"><img src="https://img.shields.io/badge/Play%20Store-000000?style=for-the-badge&logo=google-play&logoColor=white" /></a> |
 ||
+| **ChatXChange** | iOS | <a href="https://apps.apple.com/us/app/chatxchange/id6808859036"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" /></a> |
 | **Conscience** | iOS | <a href="https://apps.apple.com/us/app/conscience-habit-tracker/id6766221828"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" /></a> |
 | **Vet Check** | iOS | <a href="https://apps.apple.com/us/app/vet-check/id6759480170"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" /></a> |
 | **Point Nemo** | iOS | <a href="https://apps.apple.com/app/point-nemo/id6776600313"><img src="https://img.shields.io/badge/App%20Store-000000?style=for-the-badge&logo=apple&logoColor=white" /></a> |
