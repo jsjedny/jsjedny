@@ -153,7 +153,7 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
 <h3 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h3>
 <br>
 <div align="center"> 
-    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,androidstudio,vscode,github,figma,git,apple,kotlin,stackoverflow,python,firebase,c,java,mysql,discord,gmail,gradle,ai,instagram,linkedin,linux,ps,postman,sqlite,windows,hoopsscotch" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,html,css,androidstudio,vscode,github,figma,git,apple,kotlin,stackoverflow,python,firebase,c,java,mysql,discord,gmail,gradle,ai,instagram,linkedin,linux,ps,postman,sqlite,windows,hoopscotch" />
     
 </div> 
 
