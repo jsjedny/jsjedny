@@ -27,6 +27,11 @@ I am a passionate Mobile App developer using Flutter with a deep commitment to c
   <a href="https://wa.me/8801924156973" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
+
+   <a href="https://jedny-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+</a>
+
 </p>
  <hr/>
 <h3 align="center">Jedny's Portfolio</h3>
