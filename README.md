@@ -5,6 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=7E3ACE&lines=Hi+There!+👋;+I'm+JS+Jedny!;+Flutter+Developer" />
 </h1>
 
+
 <h3 align="center" style="color: purple;">A passionate Mobile App developer from Bangladesh</h3>
 
 Building apps that feel like magic, powered by Flutter.
